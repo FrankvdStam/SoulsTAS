@@ -1,5 +1,5 @@
 # SoulsTAS - TAS tool for multiple FromSoftware games
-
+ 
 This is a tool to create Tool-Assisted Speedruns (TAS) for Elden Ring, Sekiro, Nightreign and Dark Souls 3.
 
 It is run in a command line interface and works with script files that include the TAS actions:
